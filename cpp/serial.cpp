@@ -11,7 +11,7 @@ SerialStream ardu;
 int main(int argc, char const *argv[])
 {
     if (argc < 2){
-        cout << argv[0] << "  <biit>\n";
+        cout << argv[0] << "  <bits>\n";
         return 1;
     }
 
